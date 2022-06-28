@@ -1,16 +1,18 @@
 {
-  "type": "module",
   "name": "challenge",
   "version": "1.0.0",
   "description": "",
   "main": "challenge.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node challenge.js"
+    "test": "jest",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.2.6"
+    "node-fetch": "2.6.6"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
   }
 }
