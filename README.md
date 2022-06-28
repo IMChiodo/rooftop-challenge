@@ -9,7 +9,7 @@
 
 ## Testing Notes
 
-Run `npm install` and then `npm start` to start the server.
+Run `npm install` and then `npm start` to start the application.
 
 Run `npm run test` to execute the tests.
 
