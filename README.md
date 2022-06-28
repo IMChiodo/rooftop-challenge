@@ -10,7 +10,8 @@
 ## Testing Notes
 
 Run `npm install` and then `npm start` to start the server.
-Run `npm run test` to execute the tests
+
+Run `npm run test` to execute the tests.
 
 ## Support
 Contact [Ignacio Chiodo](https://github.com/IMChiodo) for support and questions regarding the application.
